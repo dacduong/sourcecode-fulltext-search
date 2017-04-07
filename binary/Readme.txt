@@ -1,0 +1,1 @@
+put config.txt file under IndexDB\{Source} folder to pre-define source folder
