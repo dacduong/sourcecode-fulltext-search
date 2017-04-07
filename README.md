@@ -6,3 +6,4 @@ Small tool written in C# for fulltext search source code using Lucene.Net
 # Usage
 - Index source code  
 - Search  
+- Support index source code text file, office, pdf
